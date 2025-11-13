@@ -326,13 +326,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT © [flashsites-org](https://github.com/flashsites-org)
+MIT © [shahed-swe](https://github.com/shahed-swe)
 
 ## Links
 
-- [GitHub Repository](https://github.com/flashsites-org/spintax-template-processor)
+- [GitHub Repository](https://github.com/shahed-swe/spintax-template-processor)
 - [npm Package](https://www.npmjs.com/package/spintax-template-processor)
-- [Report Issues](https://github.com/flashsites-org/spintax-template-processor/issues)
+- [Report Issues](https://github.com/shahed-swe/spintax-template-processor/issues)
 
 ## Support
 
@@ -344,4 +344,4 @@ If you find this package helpful, please consider:
 
 ---
 
-Made with ❤️ by [flashsites-org](https://github.com/flashsites-org)
+Made with ❤️ by [shahed-swe](https://github.com/shahed-swe)

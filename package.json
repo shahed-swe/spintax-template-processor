@@ -16,7 +16,7 @@
     "email-template",
     "text-spinner"
   ],
-  "author": "flashsites-org",
+  "author": "shahed-swe",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flashsites-org/spintax-template-processor"
+    "url": "https://github.com/shahed-swe/spintax-template-processor"
   },
   "engines": {
     "node": ">=14.0.0"
