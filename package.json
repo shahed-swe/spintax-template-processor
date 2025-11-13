@@ -1,0 +1,32 @@
+{
+  "name": "spintax-template-processor",
+  "version": "1.0.0",
+  "description": "Process email templates with spintax variations, variables, and conditional logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spintax",
+    "template",
+    "email",
+    "variables",
+    "conditionals",
+    "template-processor",
+    "email-template",
+    "text-spinner"
+  ],
+  "author": "flashsites-org",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flashsites-org/spintax-template-processor"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

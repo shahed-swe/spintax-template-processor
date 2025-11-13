@@ -1,0 +1,45 @@
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+
+# Testing
+test/
+tests/
+*.test.js
+*.spec.js
+coverage/
+.nyc_output/
+
+# Documentation source
+docs/
+
+# Build tools
+.eslintrc*
+.prettierrc*
+.editorconfig
+
+# CI/CD
+.travis.yml
+.gitlab-ci.yml
+azure-pipelines.yml
+
+# Environment
+.env
+.env.*
+
+# Examples and demos (optional - remove if you want to include)
+examples/
+demo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+
+# Logs
+*.log
